@@ -1,2 +1,2 @@
 # Book-Deep-Learning-Applications-with-Python
-Chapterwise code available in the book
+This repository consist of all the codes(chapterwise) that are explained in my Book.
