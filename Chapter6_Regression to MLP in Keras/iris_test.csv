@@ -1,0 +1,16 @@
+sepal_length,sepal_width,pedal_length,pedal_width,class
+5.4,3.9,1.7,0.4,Iris-setosa
+5.4,3.9,1.3,0.4,Iris-setosa
+5.0,3.6,1.4,0.2,Iris-setosa
+4.6,3.4,1.4,0.3,Iris-setosa
+5.0,3.4,1.6,0.4,Iris-setosa
+6.0,2.2,5.0,1.5,Iris-virginica
+7.2,3.6,6.1,2.5,Iris-virginica
+5.8,2.7,5.1,1.9,Iris-virginica
+6.0,3.0,4.8,1.8,Iris-virginica
+6.4,2.8,5.6,2.2,Iris-virginica
+5.9,3.0,4.2,1.5,Iris-versicolor
+6.4,2.9,4.3,1.3,Iris-versicolor
+5.4,3.0,4.5,1.5,Iris-versicolor
+7.0,3.2,4.7,1.4,Iris-versicolor
+6.7,3.1,4.4,1.4,Iris-versicolor
